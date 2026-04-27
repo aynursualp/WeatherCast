@@ -90,3 +90,4 @@ clear_btn.addEventListener("click", ()=>{
 
 
 display_history();
+
