@@ -19,3 +19,4 @@ WeatherCast is a modern, responsive weather forecasting web application that pro
 - **Asynchronous JS:** Handling API promises without blocking the main thread.
 - **UX Design:** Managing initial states (Welcome Screen) and visual feedback during data fetching.
 
+
